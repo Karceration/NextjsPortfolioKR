@@ -46,7 +46,7 @@ const Timeline = () => {
     <Section id="about">
       <SectionTitle>About Me</SectionTitle>
       <SectionText>
-      I'm Khalil, 21 years old and I am a student at Manouba's higher institute of multimedia arts (ISAMM). I just acquired my bachelor degree in Computer Science and Multimedia.I am quite ambitious when it comes to discovering new technologies, I also aspire to have as many collaborations as possible with different enterprises , individuals and meet new people. I always try to dive into many fields on my own with only personal knowledge , I gathered this knowledge either by myself or via YouTube. 
+      I'm Khalil, 22 years old and I am a student at Tunisia's International School of technology ( Polytech Intl). I just acquired my bachelor degree in Computer Science and Multimedia.I am quite ambitious when it comes to discovering new technologies, I also aspire to have as many collaborations as possible with different enterprises , individuals and meet new people. I always try to dive into many fields on my own with only personal knowledge , I gathered this knowledge either by myself or via YouTube. 
 
 
 

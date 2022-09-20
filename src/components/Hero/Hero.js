@@ -19,7 +19,7 @@ const Hero = (props) => (
           My Portfolio
         </SectionTitle>
         <SectionText>
-          I create Websites interfaces for different goals , for different
+          I create Websites for different goals , for different
           people
         </SectionText>
         <Button onClick={props.handleClick} >

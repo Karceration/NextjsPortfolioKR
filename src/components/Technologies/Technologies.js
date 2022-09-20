@@ -8,7 +8,7 @@ const Technologies = () =>  (
     <SectionDivider divider />
     <SectionTitle>Technologies</SectionTitle>
     <SectionText>
-      I work with Front-End technologies.
+      I work with these technologies in the web development world.
     </SectionText>
     <List>
       <ListItem>
@@ -20,6 +20,18 @@ const Technologies = () =>  (
           <ListParagraph>
             Fimiliar with <br />
             Javascript , HTML , CSS , SASS , React.js
+          </ListParagraph>
+        </ListContainer>
+      </ListItem>
+      <ListItem>
+        <picture>
+          <DiFirebase size="3rem" />
+        </picture>
+        <ListContainer>
+          <ListTitle>Back-End</ListTitle>
+          <ListParagraph>
+            Fimiliar with <br />
+            Node.js , MongoDB and Firebase
           </ListParagraph>
         </ListContainer>
       </ListItem>
